@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ## Hi there 👋 I'm Emmanuel
 
 - 🔭 I’m interested in Web development
