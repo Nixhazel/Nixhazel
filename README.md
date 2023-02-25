@@ -25,7 +25,7 @@
 
 <p align="center">
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nixhazel&show_icons=true&locale=en" alt="nixhazel" />
-<img align="center" height="190em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=nixhazel&" alt="nixhazel" />
+<img align="center" height="200em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=nixhazel&" alt="nixhazel" />
 </p>
 
 
