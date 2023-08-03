@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nixhazel" alt="nixhazel" /></a> </p>
 
-- 🔭 I’m currently working on **A Back End Service for a mobile application**
+- 🔭 I’m currently working on **A React Native application**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
