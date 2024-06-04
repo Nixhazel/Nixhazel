@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **neolokor1@gmail.com**
 
-- 📱 Currently Learning React Native 
+- 📱 Currently working on React Native Projects 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
